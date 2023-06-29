@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @silvjagori
-- 🥡 I'm 22 years old 
-- 🌱 I live in Italy
+- 🍄 italian 
+- 🌱 22 yo
+- ✨ she/her 
 
 <!---
 silvjagori/silvjagori is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
